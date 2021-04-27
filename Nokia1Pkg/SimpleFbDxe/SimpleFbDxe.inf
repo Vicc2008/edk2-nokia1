@@ -16,7 +16,7 @@
   MdeModulePkg/MdeModulePkg.dec
   EmbeddedPkg/EmbeddedPkg.dec
   ArmPkg/ArmPkg.dec
-  AsusMaxProM1Pkg/AsusMaxProM1Pkg.dec
+  Nokia1Pkg/Nokia1Pkg.dec
 
 [LibraryClasses]
   BaseLib
